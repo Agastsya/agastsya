@@ -9,10 +9,9 @@
 ⚛ React,HTML,CSS,Nodejs                   
 👩‍💻Java,C++,DSA,MongoDB
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agastsya&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical) ![](https://github.com/Agastsya/agastsya/blob/main/giphy%20(2).gif
-)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agastsya&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical) 
 # About Me
+![](https://github.com/Agastsya/agastsya/blob/main/giphy%20(2).gif)
 
 - 🔭 I’m currently working on MERN Stack Project Ecommerce Website 
 - 🌱 I’m currently learning DSA and React 
