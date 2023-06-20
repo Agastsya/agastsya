@@ -1,4 +1,8 @@
 # Hi there 👋, My name is Agastsya Joshi
+
+https://github.com/Agastsya/agastsya/blob/main/giphy.gif
+
+
 🏫 I am currently pursuing BCA from Maharaja Suramal Institute, Delhi.
 
 📱 I am currently making MERN Stack Projects.
