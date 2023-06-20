@@ -1,4 +1,5 @@
 # Hi there 👋, My name is Agastsya Joshi
+Passionate Web Developer | Enthusiastic about Crafting Digital Experiences
 
 ![](https://github.com/Agastsya/agastsya/blob/main/giphyresize.gif)
 
@@ -8,6 +9,8 @@
 # Skills:
 ⚛ React,HTML,CSS,Nodejs                   
 👩‍💻Java,C++,DSA,MongoDB
+
+
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,html,java,nodejs,php,react)](https://skills.thijs.gg)
 
 
@@ -17,9 +20,5 @@
 
 - 🔭 I’m currently working on MERN Stack Project Ecommerce Website 
 - 🌱 I’m currently learning DSA and React 
-- 👯 I’m looking to collaborate on Projects that teach me something new and gets me excited 
-- 🤔 I’m looking for help with Some career guidance 
-- 💬 Ask me about My Projects 
 - 📫 How to reach me: agastsya007@gmail.com 
-- ⚡ Fun fact: I love memes 
 
