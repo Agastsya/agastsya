@@ -1,5 +1,4 @@
 # Hi there 👋, My name is Agastsya Joshi
-## I am Web Developer 
 🏫 I am currently pursuing BCA from Maharaja Suramal Institute, Delhi.
 
 📱 I am currently making MERN Stack Projects.
