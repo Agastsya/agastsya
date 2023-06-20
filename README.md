@@ -9,7 +9,7 @@
 ⚛ React,HTML,CSS,Nodejs                   
 👩‍💻Java,C++,DSA,MongoDB
 
-![](https://github-readme-stats.vercel.app/api?username=agastsya&show_icons=true&theme=radica)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agastsya&layout=compact)
+  !                              [](https://github-readme-stats.vercel.app/api?username=agastsya&show_icons=true&theme=radicaL)   
 
 
 - 🔭 I’m currently working on MERN Stack Project Ecommerce Website 
