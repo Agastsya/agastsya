@@ -12,8 +12,6 @@ Passionate Web Developer | Enthusiastic about Crafting Digital Experiences
 
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,html,java,nodejs,php,react)](https://skills.thijs.gg)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agastsya&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical) 
 
 
