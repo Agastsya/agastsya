@@ -3,7 +3,7 @@ Passionate Web Developer | Enthusiastic about Crafting Digital Experiences
 
 [![Agastsya's GitHub | Languages Over Time](https://stats.quine.sh/Agastsya/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Agastsya)
 
-<a href="https://app.daily.dev/agastsya"><img src="https://api.daily.dev/devcards/71e5b95bd9f14e5b99a6289eb1e6e4fd.png?r=2q100" width="400" alt="Agastsya Joshi's Dev Card"/></a>
+<a href="https://app.daily.dev/agastsya"><img src="https://api.daily.dev/devcards/71e5b95bd9f14e5b99a6289eb1e6e4fd.png?r=2q100" width="400" alt="Agastsya Joshi's Dev Card"/></a> http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={username}&theme={theme_name}&utcOffset={utcOffset} http://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme={theme_name}
 
 I am currently pursuing BCA from Maharaja Suramal Institute, Delhi.📱 I am currently making MERN Stack Projects.💻 I am actively solving LeetCode and GeeksForGeeks Questions.🧑‍🤝‍🧑 I'm looking to collaborate on intuitive app ideas.💭 Ask me about Web Development.⚡Hobbies : Reading Books, Playing Badminton, Watching Movies and shows from around the world.
 
