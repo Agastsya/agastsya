@@ -16,7 +16,6 @@ I am currently pursuing BCA from Maharaja Suramal Institute, Delhi.📱 I am cur
 
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,html,java,nodejs,php,react)](https://skills.thijs.gg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical) 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agastsya&layout=donut-vertical)](https://github.com/Agastsya/github-readme-stats)
 
 
