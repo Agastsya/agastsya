@@ -1,21 +1,39 @@
-# Hi there 👋, My name is Agastsya Joshi
-Passionate Web Developer | Enthusiastic about Crafting Digital Experiences
+<h1 align="center">🚀 Agastsya Joshi 🚀</h1>
+<h3 align="center">Software Developer | Cybersecurity Enthusiast | Open-Source Contributor</h3>
 
-[![Agastsya's GitHub | Languages Over Time](https://stats.quine.sh/Agastsya/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Agastsya)
+---
 
-I am currently pursuing BCA from Maharaja Suramal Institute, Delhi.📱 I am currently making MERN Stack Projects.💻 I am actively solving LeetCode and GeeksForGeeks Questions.🧑‍🤝‍🧑 I'm looking to collaborate on intuitive app ideas.💭 Ask me about Web Development.⚡Hobbies : Reading Books, Playing Badminton, Watching Movies and shows from around the world.
-                            
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Agastsya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/agastsya-joshi-b6a929202//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/agastsya//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Agastsya1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://agastsya.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/AJMAax/)  
+## 🔧 Tech Stack & Skills  
+**Languages:** `C++` `Java` `Python` `TypeScript` `JavaScript` `HTML` `CSS`  
+**Frameworks & Tools:** `React` `Next.js` `FastAPI` `Node.js` `Express` `MongoDB` `SQL` `Git` `Docker`  
+**Platforms:** `Linux` `Windows` `Cloud (AWS & Google Cloud)`
 
+---
 
+## 🏆 Notable Projects  
+💻 **Scandroid (2025)** – An open-source vulnerability patcher with automated scanning and patching solutions.  
+🛠 **SyntaxForge (2024)** – A collaborative coding platform integrating an editor with real-time sharing.  
+🛍 **thelysian (2024)** – A virtual retail space with a seamless shopping experience.  
+📊 **CryptoCrash** – A cryptocurrency insights dashboard powered by real-time API data.  
+🔗 **WorkMitra** – A platform connecting skilled professionals with users.  
 
+---
 
-# Skills:
-⚛ React,HTML,CSS,Nodejs                   
-👩‍💻Java,C++,DSA,MongoDB
+## 🎓 Education & Certifications  
+🎓 **MCA**, JIMS Rohini (2024-2026) | **BCA**, Maharaja Surajmal Institute (2020-2023)  
+📜 **AWS Certified Cloud Practitioner** | **Google Cloud Career Practitioner** | **Unix Badge (PentesterLab)**  
 
+---
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,html,java,nodejs,php,react)](https://skills.thijs.gg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agastsya&layout=donut-vertical)](https://github.com/Agastsya/github-readme-stats)
+## 💡 Open Source & Community  
+👨‍💻 Active contributor to open-source projects.  
+🏆 Participated in **GSSOC 2023** and **Reckon 4.0 JIET Hackathon**.  
+🔒 Passionate about security, automation, and DevOps.  
 
+---
 
+## 🚀 Let's Connect!  
+📧 **Email:** [agastsya007@gmail.com](mailto:agastsya007@gmail.com)  
+🌐 **Portfolio:** [portfolio-agastsya.vercel.app](https://portfolio-agastsya.vercel.app)  
+🐙 **GitHub:** [github.com/agastsya](https://github.com/agastsya)  
+💼 **LinkedIn:** [linkedin.com/in/agastsya-joshi-b6a929202](https://linkedin.com/in/agastsya-joshi-b6a929202/)  
