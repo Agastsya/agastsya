@@ -10,15 +10,6 @@
 
 ---
 
-## 🏆 Notable Projects  
-💻 **Scandroid (2025)** – An open-source vulnerability patcher with automated scanning and patching solutions.  
-🛠 **SyntaxForge (2024)** – A collaborative coding platform integrating an editor with real-time sharing.  
-🛍 **thelysian (2024)** – A virtual retail space with a seamless shopping experience.  
-📊 **CryptoCrash** – A cryptocurrency insights dashboard powered by real-time API data.  
-🔗 **WorkMitra** – A platform connecting skilled professionals with users.  
-
----
-
 ## 🎓 Education & Certifications  
 🎓 **MCA**, JIMS Rohini (2024-2026) | **BCA**, Maharaja Surajmal Institute (2020-2023)  
 📜 **AWS Certified Cloud Practitioner** | **Google Cloud Career Practitioner** | **Unix Badge (PentesterLab)**  
@@ -41,12 +32,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=agastsya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=agastsya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agastsya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=agastsya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=agastsya&icon=0&color=0)](https://visitcount.itsvg.in)
